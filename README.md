@@ -6,7 +6,6 @@ Curated list of Developer Github Profiles for your inspiration.
 
 Follow this guide: [GitHub new feature to add README on your Profile ](https://dev.to/coderjojo/github-new-feature-to-add-readme-on-your-profile-ggc)
 
-Contribute to this repository by opening a [PR](./CONTRIBUTING.md) to this repository. Refer to the [CONTRIBUTING](./CONTRIBUTING.md) file for direction.
 
 This repository was inspired from [Developer Portfolios](https://github.com/emmabostian/developer-portfolios) github repository.
 
@@ -258,6 +257,13 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/BereketSemagn.webp">
   </details>
+ 
+- [Bhagawat Adhikari](https://github.com/BhagawatAdhikari/bhagawatadhikari)
+     <details>
+        <summary>Preview</summary>
+        <img src="EXAMPLES/BhagawatAdhikari.webp">
+     </details>
+  
 - Bilgehan Gecici (profile deleted or username changed)
   <details>
     <summary>Preview</summary>
@@ -480,6 +486,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/blueset.webp">
   </details>
+- [Ednei Almeida](https://github.com/edmaxi)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/EdMaxi.webp">
+  </details>
 - [Emerson Thompson](https://github.com/thompsonemerson)
   <details>
     <summary>Preview</summary>
@@ -555,6 +566,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <details>
    <summary>Preview</summary>
    <img loading="lazy" src="EXAMPLES/hanshul.webp">
+   </details>
+- [HyunSun](https://github.com/HyunCafe)
+  <details>
+   <summary>Preview</summary>
+   <img loading="lazy" src="EXAMPLES/hyunsun.webp">
    </details>
 
 ## I
@@ -706,7 +722,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/kiranmuddam.webp">
   </details>
-
+- [Kunal Dongre](https://github.com/Kd-Here)
+  <details>
+    <summary>Preview</summary>
+    <img loading='lazy' src = "EXAMPLES/Kd-Here.webp">
+  </details>
 - [Kwangsing3](https://github.com/kwangsing3)
   <details>
     <summary>Preview</summary>
@@ -763,6 +783,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## M
 
+- [M1troll](https://github.com/M1troll)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/M1troll.webp">
+  </details>
 - [mahmoud miehob](https://github.com/MahmoudMiehob)
   <details>
     <summary>Preview</summary>
@@ -921,6 +946,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/nouveau-riche.webp">
   </details>
+- [Nikita Babko ](https://github.com/nikitababko)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/nikitababko.webp">
+  </details>
 - [Nikita Jain ](https://github.com/nikita1610)
   <details>
     <summary>Preview</summary>
@@ -1040,6 +1070,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <details>
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/p014ri5.webp">
+  </details>
+- [Priyanshu Roy](https://github.com/roypriyanshu02)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/roypriyanshu02.webp">
   </details>
 
 ## R
